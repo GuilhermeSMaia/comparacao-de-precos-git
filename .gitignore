@@ -25,6 +25,8 @@ nb-configuration.xml
 .vscode
 .factorypath
 
+.nixpacks/
+
 # OSX
 .DS_Store
 
