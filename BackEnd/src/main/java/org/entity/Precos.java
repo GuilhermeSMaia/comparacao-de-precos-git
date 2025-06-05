@@ -50,4 +50,5 @@ public class Precos extends PanacheEntityBase {
     public Produtos getProdutos() {
         return produtos;
     }
+    
 }

@@ -1,7 +1,5 @@
 package org.repository;
 
-import java.util.List;
-
 import org.entity.Produtos;
 
 import io.quarkus.hibernate.orm.panache.PanacheRepositoryBase;

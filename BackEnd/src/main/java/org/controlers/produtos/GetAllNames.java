@@ -12,7 +12,7 @@ import jakarta.ws.rs.Path;
 import jakarta.ws.rs.core.Response;
 
 @Path("/produtos")
-public class GetAllProdutos {
+public class GetAllNames {
 
     @Inject
     ProdutosRepository produtosRepository;

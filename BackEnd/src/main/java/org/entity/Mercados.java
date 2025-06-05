@@ -39,5 +39,8 @@ public class Mercados extends PanacheEntityBase {
     public void setNome(String nome) {
         this.nome = nome;
     }
+    public List<Precos> getPrecos() {
+        return precos;
+    }
 
 }

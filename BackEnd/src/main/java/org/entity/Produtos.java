@@ -46,4 +46,7 @@ public class Produtos extends PanacheEntityBase {
     public List<Precos> getPrecos() {
         return precos;
     }
+    public Long getId() {
+        return id;
+    }
 }
